@@ -1,0 +1,2 @@
+# SupBust
+CLI Supreme Bot
